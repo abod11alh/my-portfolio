@@ -1,13 +1,13 @@
-import React,{FC} from 'react'
+import React, { FC } from 'react'
 
-export interface mainPageProps{
+export interface mainPageProps {
 
 }
 
-const MainPage : FC<mainPageProps> = () =>{
+const MainPage: FC<mainPageProps> = () => {
 
     return <div></div>
 }
 
 
-export default  MainPage;
+export default MainPage;
